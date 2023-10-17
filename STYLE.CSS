@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    width: auto;
+    margin: 0;
+}
+.MAIN{
+    border: 4PX solid green;
+    height: 600PX;
+    text-align: center;
+    padding-bottom: 40PX;
+}
+.O
+PICTURE img{
+    width: auto;
+    height: 150PX;
+    border-radius: 50PX;
+    border: 4PX solid green;
+    margin-top: 20PX;
+} 
